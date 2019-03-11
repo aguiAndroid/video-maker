@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/aguiAndroid/video-maker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.9"
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.9",
+    "save": "^2.3.3",
+    "sbd": "^1.0.14"
   }
 }
